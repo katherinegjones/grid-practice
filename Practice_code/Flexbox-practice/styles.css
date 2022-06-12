@@ -1,0 +1,34 @@
+.flex-container {
+    /** TODO:
+    *   1. apply properties to create a flex parent
+    *   2. Align items in a row
+    *   3. Center the content vertically AND horizontally
+    *   4. Give the box a border
+    *   5. Apply property to force items onto new row when width is filled
+    */
+}
+
+.flex-item {
+    /* TODO:  Apply border/background to visually separate each inner div  */
+}
+
+/* optional: apply styles for individual divs with unique id's/classnames */ 
+/* BONUS: 
+*   1. use pseudo-selectors to style each div according to its order in the list 
+*   2. Use media queries to make your page more responsive
+*/
+
+/* Copied from https://www.browserstack.com/guide/what-are-css-and-media-query-breakpoints
+@media (min-width: 600px) {
+// Large phones, small tablets
+}
+@media (min-width: 768px) {
+// most tablets
+}
+@media (min-width: 992px) {
+// most desktops/laptops
+}
+@media (min-width: 1200px) {
+// larger desktops/laptops
+}
+*/
